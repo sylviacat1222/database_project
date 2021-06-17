@@ -1,3 +1,4 @@
+### 要將檔案轉成csv或是json再丟進資料庫
 #### 1.一年觀測資料-本局屬地面測站一年觀測資料(one_year)
 #### 欄位:station_name, station_id, date(格式要改成DATETIME), pressure, temp, humidity, wind_speed, wind_dir, precipitation, sunshine
 #### https://data.gov.tw/dataset/33029
