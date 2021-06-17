@@ -12,5 +12,6 @@
 #### 欄位:station_id, station_name, px, py
 #### https://e-service.cwb.gov.tw/wdps/obs/state.htm
 #### 5.board
+#### our design
 #### see board_columns.jpg
 #### 欄位：id, user_id, post_at(留言發布時間), date(旅遊時間), city, place(景點名稱), rating, comment, air(空氣品質), weather(天氣好壞)
