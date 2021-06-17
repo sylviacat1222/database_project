@@ -1,4 +1,7 @@
 # Databas Pproposal Team 15
-### discussion board
+## discussion board
 https://hackmd.io/XbJ6oUjMRIOvdbVeLtbt1A?viewhttps://hackmd.io/XbJ6oUjMRIOvdbVeLtbt1A?view
-## 功能說明
+## date
+### the tables we need to use
+## web
+### php and html we use to construct the website
