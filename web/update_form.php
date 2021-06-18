@@ -81,8 +81,8 @@ $weather = (int)$result['weather'];
         <br>
         <p>天氣: </p>
         <input type="radio" name="weather" value="1" <?php if($weather === 1) echo "checked" ?> >雨天
-        <input type="radio" name="weather" value="3" <?php if($weather === 2) echo "checked" ?> >多雲
-        <input type="radio" name="weather" value="4" <?php if($weather === 3) echo "checked" ?> >晴天
+        <input type="radio" name="weather" value="2" <?php if($weather === 2) echo "checked" ?> >多雲
+        <input type="radio" name="weather" value="3" <?php if($weather === 3) echo "checked" ?> >晴天
         <br>
 
 		<input type="submit" value="更新">
